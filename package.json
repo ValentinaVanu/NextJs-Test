@@ -5,9 +5,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "sjs": "json-server --watch --port=1234 src/data/data.json"
   },
   "dependencies": {
+    "axios": "^0.21.1",
+    "json-server": "^0.16.3",
     "next": "^10.0.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"

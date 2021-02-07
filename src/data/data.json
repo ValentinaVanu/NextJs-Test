@@ -1,0 +1,29 @@
+{
+  "people": [
+    {
+      "name" : "Valentina",
+      "pet" : "Dog",
+      "details": "Valentina's dog, Chloe is the prettiest frenchie in the World!"
+    },
+    {
+      "name" : "Maria",
+      "pet" : "Cat",
+      "details" : "Maria's cat, Caramel likes to Purr alot."
+    },
+    {
+      "name" : "Emily",
+      "pet" : "Fish",
+      "details": "Emily's fish is very colorful, therfor so pleasing to watch."
+    },
+    {
+      "name" : "Bruno",
+      "pet" : "Ferret",
+      "details": "Bruno's ferret, Alfie is such a playful little ball of fur."
+    },
+    {
+      "name" : "David",
+      "pet" : "Parrot",
+      "details": "David's parrot, Billie, loves to sing all day long."
+    }
+  ]
+}
